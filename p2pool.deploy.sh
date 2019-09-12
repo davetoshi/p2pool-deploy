@@ -75,7 +75,6 @@ git clone https://github.com/axerunners/axerunner
 #
 cd ~
 sudo apt-get --yes install python-zope.interface python-twisted python-twisted-web python-dev libncurses-dev
-sudo apt-get --yes install git python-zope.interface python-twisted python-twisted-web
 sudo apt-get --yes install gcc g++
 sudo apt-get --yes install git
 
